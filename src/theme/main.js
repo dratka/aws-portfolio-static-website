@@ -34,7 +34,7 @@ module.exports = {
     success: green,
 
     foreground: black,
-    background: diamond,
+    background: mayaBlue,
 
     link: cyanCornflowerBlue,
 
